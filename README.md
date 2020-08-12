@@ -5,13 +5,13 @@
 
 # Processing according to the article
 
-1. Web Crawling: Get articles from restaurant ad agency.
-Data:
-  English: https://eater.com/archives; https://ny.eater.com/archives
-  Chinese: https://blog.foodmapnyc.com/
+1. Web Crawling: Get articles from restaurant ad agency.  
+Data:  
+  English: https://eater.com/archives; https://ny.eater.com/archives  
+  Chinese: https://blog.foodmapnyc.com/  
 
 
-2. Detect food entities:
+2. Detect food entities:  
 There are many food with strange names, or the resaurant could make up their own name, and the name of that food may be totally different from the resources. So the way of "incorporating generalpurpose ontologies" may not work.
 : POS tags => NOUN + machine learning?
 
