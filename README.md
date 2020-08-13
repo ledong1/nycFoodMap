@@ -2,6 +2,7 @@
 
 # Resources:
 [Knowledge Acquisition with Natural Language Processing in the Food Domain: Potential and Challenges](https://projet.liris.cnrs.fr/cwc/cwc2012/cwc2012_submission_1.pdf)
+(https://www.analyticsvidhya.com/blog/2019/09/introduction-information-extraction-python-spacy/)
 
 # Processing according to the article
 
@@ -20,6 +21,7 @@ There are many food with strange names, or the resaurant could make up their own
 
 3. detarmain the relation
   Statistical Co-occurrence
-  Pattern-based Approaches
+  Pattern-based Approaches:
+    dish name pattern: "XX XX XX ($14)"
   further linguistic analysis?
 
