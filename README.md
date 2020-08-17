@@ -21,7 +21,11 @@ There are many food with strange names, or the resaurant could make up their own
 
 3. detarmain the relation
   Statistical Co-occurrence
+    Only depend on the number of Co-occurrence of two term
   Pattern-based Approaches:
-    dish name pattern: "XX XX XX ($14)"
+    Simple pattern detection:
+      dish name pattern: "XX XX XX ($14)"
+    Learn Patten from the text:
+      lable the sentence and the relations, then use maichine learning to learn the pattern
   further linguistic analysis?
 
