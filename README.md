@@ -15,17 +15,17 @@ Data:
 2. Detect food entities:  
 There are many food with strange names, or the resaurant could make up their own name, and the name of that food may be totally different from the resources. So the way of "incorporating generalpurpose ontologies" may not work.
 : POS tags => NOUN + machine learning?
-
++ word2vect?
 
 
 
 3. detarmain the relation
-  Statistical Co-occurrence
+  1) Statistical Co-occurrence
     Only depend on the number of Co-occurrence of two term
-  Pattern-based Approaches:
+  2) Pattern-based Approaches:
     Simple pattern detection:
       dish name pattern: "XX XX XX ($14)"
     Learn Patten from the text:
       lable the sentence and the relations, then use maichine learning to learn the pattern
-  further linguistic analysis?
+  3) further linguistic analysis?
 
